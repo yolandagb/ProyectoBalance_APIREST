@@ -20,3 +20,5 @@ class EntrySerializer(serializers.Serializer):
     def update(self):
         pass
     
+    def delete(self):
+        pass
